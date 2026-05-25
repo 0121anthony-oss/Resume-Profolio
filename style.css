@@ -1,0 +1,40 @@
+html {
+    background-color: #FAF8F1;
+}
+
+h1 {
+    color: #2E4057;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #2E4057;
+    font-family: 'Arial', sans-serif;
+    margin-top: 20px;
+}
+
+p {
+    color: #2E4057;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+ul {
+    color: #2E4057;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #2E4057;
+}
+
+a:hover {
+    color: #1B2631;
+}
+
+
